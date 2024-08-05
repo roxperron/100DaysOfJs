@@ -14,4 +14,3 @@ const generateNumber = () => {
 
 
 btn.addEventListener("click", generateNumber)
-
